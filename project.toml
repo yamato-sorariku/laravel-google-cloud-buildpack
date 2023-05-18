@@ -1,0 +1,6 @@
+[[build.env]]
+    name = "GOOGLE_COMPOSER_VERSION"
+    value = "2.2.20"
+[[build.env]]
+    name = "GOOGLE_RUNTIME"
+    value = "php"
